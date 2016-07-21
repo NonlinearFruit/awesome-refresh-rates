@@ -4,22 +4,32 @@ Contained here is an awesome list of when to replace/update/check-on objects in 
 
 ## Contents
 
- - [Tech](#tech)
  - [Home](#home)
- - [Work](#work)
- - [Car](#car)
  - [Hygene](#hygene)
+ - [Tech](#tech)
+ - [Vehicle](#vehicle)
+ - [Work](#work)
  - [Yard](#yard)
  - [Contributing](#contributing)
  - [Liscense](#liscense)
 
+### Legend
+
 ----------------------------------------------------
 
-# Tech
 # Home
-# Work
-# Car
+## Bedroom
+ - **Bed Pillows**:
+  - Wash once every 4.5 months :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/wash-bed-pillows)
+ - **Bed Sheets**: 
+  - Wash once every week :: [Men's Health](http://www.menshealth.com/health/why-you-should-really-wash-your-sheets-more-frequently-you-do)
+  - Wash once every week :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/wash-bed-sheets)
+ - **Mattress**:
+  - Wash once every 6 months :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/freshen-your-mattress)
 # Hygene
+# Tech
+# Vehicle
+# Work
 # Yard
 
 ----------------------------------------------------
