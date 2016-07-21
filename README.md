@@ -2,7 +2,7 @@
 
 Contained here is an awesome list of when to replace/update/check-on objects in your life. As an added bonus there are also citations for the source of these recommendations. The current absense and immense practicality of a list such as this, were the motivating factors leading to the conception and creation of this project.
 
-## Contents
+### Contents
 
  - [Home](#home)
  - [Hygene](#hygene)
@@ -13,12 +13,13 @@ Contained here is an awesome list of when to replace/update/check-on objects in 
  - [Contributing](#contributing)
  - [Liscense](#liscense)
 
-### Legend
+#### Legend
 
 ----------------------------------------------------
 
-# Home
-## Bedroom
+Home
+----
+### Bedroom
  - **Bed Pillows**:
   - Wash once every 4.5 months :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/wash-bed-pillows)
  - **Bed Sheets**: 
@@ -26,14 +27,15 @@ Contained here is an awesome list of when to replace/update/check-on objects in 
   - Wash once every week :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/wash-bed-sheets)
  - **Mattress**:
   - Wash once every 6 months :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/freshen-your-mattress)
-# Hygene
-# Tech
-# Vehicle
-# Work
-# Yard
+
+## Hygene
+## Tech
+## Vehicle
+## Work
+## Yard
 
 ----------------------------------------------------
 
-# Contributing
-# Liscense
+## Contributing
+## Liscense
 
