@@ -4,6 +4,14 @@ Contained here is an awesome list of when to replace/update/check-on objects in 
 
 ## Contents
 
+ - [Tech](#tech)
+ - [Home](#home)
+ - [Work](#work)
+ - [Car](#car)
+ - [Hygene](#hygene)
+ - [Yard](#yard)
+ - [Contributing](#contributing)
+ - [Liscense](#liscense)
 
 ----------------------------------------------------
 
@@ -13,4 +21,9 @@ Contained here is an awesome list of when to replace/update/check-on objects in 
 # Car
 # Hygene
 # Yard
+
+----------------------------------------------------
+
+# Contributing
+# Liscense
 
