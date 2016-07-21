@@ -21,12 +21,14 @@ Home
 ----
 ### Bedroom
  - **Bed Pillows**:
-  - Wash once every 4.5 months :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/wash-bed-pillows)
+  - Wash every 4.5 months :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/wash-bed-pillows)
  - **Bed Sheets**: 
-  - Wash once every week :: [Men's Health](http://www.menshealth.com/health/why-you-should-really-wash-your-sheets-more-frequently-you-do)
-  - Wash once every week :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/wash-bed-sheets)
+  - Wash every week :: [Men's Health](http://www.menshealth.com/health/why-you-should-really-wash-your-sheets-more-frequently-you-do)
+  - Wash every week :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/wash-bed-sheets)
+ - **Blankets**: 
+  - Wash every 3.5 months :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/) 
  - **Mattress**:
-  - Wash once every 6 months :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/freshen-your-mattress)
+  - Wash every 6 months :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/freshen-your-mattress)
 
 ## Hygene
 ## Tech
