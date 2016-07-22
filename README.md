@@ -5,7 +5,7 @@ Contained here is an awesome list of when to replace/update/check-on objects in 
 ### Contents
 
  - [Home](#home)
- - [Hygene](#hygene)
+ - [Hygiene](#hygiene)
  - [Tech](#tech)
  - [Vehicle](#vehicle)
  - [Work](#work)
@@ -19,18 +19,50 @@ Contained here is an awesome list of when to replace/update/check-on objects in 
 
 Home
 ----
-### Bedroom
- - **Bed Pillows**:
-  - Wash every 4.5 months :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/wash-bed-pillows)
- - **Bed Sheets**: 
-  - Wash every week :: [Men's Health](http://www.menshealth.com/health/why-you-should-really-wash-your-sheets-more-frequently-you-do)
-  - Wash every week :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/wash-bed-sheets)
- - **Blankets**: 
-  - Wash every 3.5 months :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/) 
- - **Mattress**:
-  - Wash every 6 months :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/freshen-your-mattress)
 
-## Hygene
+### Bathroom
+
+ - **Bath Mat**:
+  - Wash every 1.5 weeks :: [Huffington Post](http://www.huffingtonpost.com/entry/how-often-you-should-actually-be-washing-your-sheets_us_55cb9271e4b0f1cbf1e72931) + [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/)
+
+ - **Bath Towel**:
+  - Wash every week :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/)
+  - Wash ever 3.5 uses :: [Huffington Post](http://www.huffingtonpost.com/entry/how-often-you-should-actually-be-washing-your-sheets_us_55cb9271e4b0f1cbf1e72931)
+  
+ - **Grout**:
+  - Clean every year :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/)
+  
+ - **Hand Towel**:
+  - Wash every 2.5 days :: [Huffington Post](http://www.huffingtonpost.com/entry/how-often-you-should-actually-be-washing-your-sheets_us_55cb9271e4b0f1cbf1e72931)
+  
+ - **Shower Head**:
+  - Clean every year :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/) 
+  
+ - **Toilet**:
+  - Clean every week :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/) 
+
+  - Deep Clean every month :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/) 
+
+ - **Toothbrush**:
+  - Replace every 3.5 months :: [Web MD](http://www.webmd.com/oral-health/healthy-mouth-15/your-healthy-mouth/the-ugly-truth-about-your-toothbrush)
+
+### Bedroom 
+
+ - **Bed Pillows**:
+  - Wash every 4.5 months :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/wash-bed-pillows) + [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/) 
+  - Wash every 6 months :: [Huffington Post](http://www.huffingtonpost.com/entry/how-often-you-should-actually-be-washing-your-sheets_us_55cb9271e4b0f1cbf1e72931)
+
+ - **Bed Sheets**: 
+  - Wash every week :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/wash-bed-sheets) + [Men's Health](http://www.menshealth.com/health/why-you-should-really-wash-your-sheets-more-frequently-you-do) + [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/) 
+  - Wash every 1.5 weeks :: [Huffington Post](http://www.huffingtonpost.com/entry/how-often-you-should-actually-be-washing-your-sheets_us_55cb9271e4b0f1cbf1e72931)
+
+ - **Blankets**: 
+  - Wash every 3.5 months :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/)  
+
+ - **Mattress**:
+  - Clean every 6 months :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/freshen-your-mattress) + [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/) 
+
+## Hygiene
 ## Tech
 ## Vehicle
 ## Work
@@ -41,3 +73,4 @@ Home
 ## Contributing
 ## Liscense
 
+See [LICENSE](LICENSE)
