@@ -62,6 +62,18 @@ Home
  - **Mattress**:
   - Clean every 6 months :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/freshen-your-mattress) + [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/) 
 
+### Kitchen
+
+ - **Dish Towels**:
+ - **Dishwasher**:
+  - Clean every month :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/)  
+ - **Kitchen Sink**:
+  - Clean every day :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/)  
+ - **Oven**:
+  - Clean every 6 months :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/)  
+ - **Refridgerator**:
+  - Clean every 3 months :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/)    
+
 ## Hygiene
 ## Tech
 ## Vehicle
@@ -71,6 +83,9 @@ Home
 ----------------------------------------------------
 
 ## Contributing
+
+Read about the Contributing Guidelines [here](CONTRIBUTING.md)
+
 ## Liscense
 
 See [LICENSE](LICENSE)
