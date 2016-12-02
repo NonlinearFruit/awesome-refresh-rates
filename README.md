@@ -62,8 +62,49 @@ Home
  - **Refridgerator**:
   - Clean every 3 months :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/)    
 
-## Hygiene
-## Tech
+Hygiene
+-------
+
+### Personal
+ - **Showering**:
+  - Clean every day :: [Australian Department of Health](http://www.health.gov.au/internet/publications/publishing.nsf/Content/ohp-enhealth-manual-atsi-cnt-l~ohp-enhealth-manual-atsi-cnt-l-ch3~ohp-enhealth-manual-atsi-cnt-l-ch3.7) + [WebMD](http://www.webmd.com/parenting/features/teen-hygiene#1)
+ - **Wash Hair**:
+  - Clean every 1.5 days :: [WebMD](http://www.webmd.com/parenting/features/teen-hygiene#1)
+  - Clean every week :: [Australian Department of Health](http://www.health.gov.au/internet/publications/publishing.nsf/Content/ohp-enhealth-manual-atsi-cnt-l~ohp-enhealth-manual-atsi-cnt-l-ch3~ohp-enhealth-manual-atsi-cnt-l-ch3.7)
+ - **Brush Teeth**:
+  - Clean twice every day :: [Australian Department of Health](http://www.health.gov.au/internet/publications/publishing.nsf/Content/ohp-enhealth-manual-atsi-cnt-l~ohp-enhealth-manual-atsi-cnt-l-ch3~ohp-enhealth-manual-atsi-cnt-l-ch3.7)
+  
+### Medical
+  
+Tech
+----
+
+### General
+ - **Disk Scan**:
+  - Run every week :: [LifeHacker](http://www.lifehack.org/articles/technology/26-tips-to-keep-your-computer-up-and-functioning.html)
+ - **Backup**:
+  - Run every week :: [LifeHacker](http://www.lifehack.org/articles/technology/26-tips-to-keep-your-computer-up-and-functioning.html)
+ - **Virus Scan**:
+  - Run every week :: [LifeHacker](http://www.lifehack.org/articles/technology/26-tips-to-keep-your-computer-up-and-functioning.html)
+ - **Update Software**:
+  - Check every month :: [LifeHacker](http://www.lifehack.org/articles/technology/26-tips-to-keep-your-computer-up-and-functioning.html)
+ - **Passwords**:
+  - Replace every 3 months :: [LifeHacker](http://www.lifehack.org/articles/technology/26-tips-to-keep-your-computer-up-and-functioning.html)
+  
+### PC
+ - **Keyboard**:
+  - Clean every 3 months :: [LifeHacker](http://www.lifehack.org/articles/technology/26-tips-to-keep-your-computer-up-and-functioning.html)
+ - **Monitor**:
+  - Clean every 3 months :: [LifeHacker](http://www.lifehack.org/articles/technology/26-tips-to-keep-your-computer-up-and-functioning.html)
+ - **Peripherals**:
+  - Clean every 3 months :: [LifeHacker](http://www.lifehack.org/articles/technology/26-tips-to-keep-your-computer-up-and-functioning.html)
+ - **Desktop**:
+  - Clean every 3 months :: [LifeHacker](http://www.lifehack.org/articles/technology/26-tips-to-keep-your-computer-up-and-functioning.html)
+  
+### Mobile
+### IoT
+
+
 ## Vehicle
 ## Work
 ## Yard
