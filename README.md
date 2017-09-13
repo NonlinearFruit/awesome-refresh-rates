@@ -31,7 +31,7 @@ Home
  - **Hand Towel**:
   - Wash every 2.5 days :: [Huffington Post](http://www.huffingtonpost.com/entry/how-often-you-should-actually-be-washing-your-sheets_us_55cb9271e4b0f1cbf1e72931)
  - **Shower Head**:
-  - Clean every year :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/) 
+  - Clean every year :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/) + [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/) 
  - **Toilet**:
   - Clean every week :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/) 
   - Deep Clean every month :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/) 
@@ -50,6 +50,38 @@ Home
  - **Mattress**:
   - Clean every 6 months :: [All You](http://www.allyou.com/budget-home/organizing-cleaning/washing-guidelines/freshen-your-mattress) + [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/) 
 
+### Exterior
+  - **Exhaust Vents**
+    - Clean every year :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
+  - **Exterior Drainage**
+    - Inspect every year :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
+  - **Gutters**
+    - Clean every year :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
+  - **Roof**
+    - Inspect every year :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
+  - **Garage**
+    - Clean every year :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
+    - Test door auto-reverse feature every 3 months :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
+  
+
+### General
+  - **HVAC Filters**:
+    - Inspect every month :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
+  - **Fire Extinguishers**
+    - Inspect every month :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
+  - **Carbon Dioxide & Smoke Detectors**
+    - Test every 3 months :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
+    - Replace batteries every 6 months :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
+  - **Water Softener**
+    - Refill every 3 months :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
+  - **House**
+    - Deep clean every 6 months :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
+  - **Water Heater**
+    - Flush every year :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
+    - Test pressure relief valve every 6 months :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
+  - **Basement**
+    - Deep clean every year :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
+
 ### Kitchen
  - **Dish Towels**:
   - Clean every week :: [Huffington Post](http://www.huffingtonpost.com/2014/10/16/kitchen-rag-bacteria_n_5960786.html)
@@ -57,10 +89,13 @@ Home
   - Clean every month :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/)  
  - **Kitchen Sink**:
   - Clean every day :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/)  
+  - Clean disposal every month :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
  - **Oven**:
+  - Clean range hood filters every month :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
   - Clean every 6 months :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/)  
  - **Refridgerator**:
   - Clean every 3 months :: [Wonder How To](http://thesecretyumiverse.wonderhowto.com/how-to/cleaning-frequency-chart-often-should-you-clean-certain-items-your-home-0161157/)    
+  - Vaccuum coils every 6 months :: [Art of Manliness](http://www.artofmanliness.com/2013/10/08/keep-your-house-in-tip-top-shape-an-incredibly-handy-home-maintenance-checklist/)
 
 Hygiene
 -------
